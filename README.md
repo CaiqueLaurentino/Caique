@@ -1,1 +1,1 @@
-# Caique
+# Meu nome é Caique, tenho 23 anos e sou formado em Sistemas de Informação. Após um ano como estagiário, atualmente atuo como desenvolvedor Full Stack. Possuo experiência em programação, com foco em JavaScript, TypeScript, Node.js, React e MySQL. Estou em busca de oportunidades para expandir meu conhecimento e contribuir com projetos na área de tecnologia.
